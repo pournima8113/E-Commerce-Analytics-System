@@ -10,8 +10,8 @@ This project focuses on analyzing e-commerce data using MySQL. It helps in under
 - Generate business insights using SQL joins and aggregations. 
 
 ## 🛠️ Tools & Technologies
-Dtabase: MySQL  
-Language: SQL (Structured Query Language)
+- Dtabase: MySQL  
+- Language: SQL (Structured Query Language)
 
 ## 🗄️ Database Schema
 The project consists of the following key tables:
