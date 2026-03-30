@@ -5,18 +5,15 @@
 ## 📌 Project Overview
 This project focuses on analyzing e-commerce data using SQL. It helps in understanding customer behavior, product performance, and overall sales trends using structured queries.
 
-
 ## 🎯 Objectives
 - Analyze customer purchasing behavior  
 - Identify top-selling products  
 - Track monthly revenue trends  
 - Generate business insights using SQL  
 
-
 ## 🛠️ Tools & Technologies
 - MySQL  
 - SQL (Structured Query Language)
-
 
 ## 🗄️ Database Schema
 
@@ -27,6 +24,24 @@ The project consists of the following tables:
 - **orders** → Contains order details  
 - **order_items** → Tracks products in each order  
 
+## 📸 Screenshots
 
-## 📂 Project Structure
+### 📌 Monthly Revenue
+![Month](ScreeShots/Month.png)
+
+### 📌 Customer Data
+![Customer](ScreeShots/customer.png)
+
+### 📌 Customer ID
+![ID](ScreeShots/id.png)
+
+### 📌 Customer Name
+![Name](ScreeShots/name.png)
+
+### 📌 Orders Data
+![Orders](ScreeShots/order.png)
+
+### 📌 Product Data
+![Products](ScreeShots/product.png)
+
 
