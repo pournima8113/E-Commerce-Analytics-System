@@ -29,11 +29,11 @@ The project consists of the following key tables:
 - Ordering: (To rank products and customers)
 
 ## 📊 Business Insights & Screenshots
-📌 Monthly Revenue Trend
+- Monthly Revenue Trend
 Helps in identifying peak sales months and seasonal demand.
-📌 Customer Spending Analysis
+- Customer Spending Analysis
 Identifies high-value customers who contribute most to the revenue.
-📌 Inventory & Product Performance
+- Inventory & Product Performance
 Tracks which products are in high demand and which need restocking.
 
 ## ⚙️How to Run the Project
