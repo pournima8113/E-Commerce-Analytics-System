@@ -24,24 +24,23 @@ The project consists of the following tables:
 - **orders** → Contains order details  
 - **order_items** → Tracks products in each order  
 
-## 📸 Screenshots
+## 📊 Screenshots
 
 ### 📌 Monthly Revenue
-![Month](ScreeShots/Month.png)
+![Monthly Revenue](ScreeShots/Month.png)
 
 ### 📌 Customer Data
-![Customer](ScreeShots/customer.png)
+![Customer Data](ScreeShots/customer.png)
 
 ### 📌 Customer ID
-![ID](ScreeShots/id.png)
+![Customer ID](ScreeShots/id.png)
 
 ### 📌 Customer Name
-![Name](ScreeShots/name.png)
+![Customer Name](ScreeShots/name.png)
 
 ### 📌 Orders Data
-![Orders](ScreeShots/order.png)
+![Orders Data](ScreeShots/order.png)
 
 ### 📌 Product Data
-![Products](ScreeShots/product.png)
-
+![Product Data](ScreeShots/product.png)
 
