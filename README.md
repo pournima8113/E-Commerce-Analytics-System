@@ -47,6 +47,3 @@ Tracks which products are in high demand and which need restocking.
 - Integrating a Dashboard using Power BI or Tableau.
 - Adding more complex data like Product Returns or Discounts analysis.
 - Automating the data update process using Python.
-
-## Excel Output
-[Download CSV](E-Commerce%20Analytics%20System%20output.csv)
